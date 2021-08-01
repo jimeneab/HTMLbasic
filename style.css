@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #FFFCE6;
+}
+
+.login-form{
+    color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form h1{
+    color: #F2CC39;
+}
+
+.nav-styles{
+    background-color: #506AD4;
+}
+
+.nav-styles img{
+    width:50px;
+    height: 50px;
+}
+
+.btn-red{
+background-color: red;
+color: black;
+border: 2px solid red;
+color: white;
+padding: 8px;
+border-radius: 10px;
+margin: 10px;
+}
+
+.btn-blue{
+background-color: white;
+border: 2px solid royalblue;
+padding: 8px;
+border-radius: 10px;
+margin: 10px
+}
